@@ -1,0 +1,113 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Card {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  border-width: 5px 1px 1px;
+  border-style: solid;
+  border-color: rgb(99, 118, 141) transparent transparent;
+  margin: 0px auto 1rem;
+  position: relative;
+  box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px,
+    rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 1px 5px 0px;
+  cursor: initial;
+  max-width: 400px;
+  transition-property: border, height, right, opacity, box-shadow;
+  transition-duration: 400ms, 200ms, 200ms, 100ms, 500ms;
+  opacity: 1;
+}
+/* button.style-destructive {
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 8px;
+  text-overflow: ellipsis;
+  text-align: center;
+  outline: 0px;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: none;
+  text-decoration: none;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 400;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: transparent;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 51, 153);
+} */
+/* .ac-container {
+  border: 1px black solid;
+} */
+/* .ac-multichoiceInput {
+  flex: 0 0 auto;
+  padding: 10px 4% 10px 10px;
+  text-align: left;
+  color: rgb(112, 112, 112);
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  border-color: rgb(112, 112, 112);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+} */
+/* .ac-dateInput {
+  flex: 0 0 auto;
+  padding: 10px 4% 10px 10px;
+  text-align: left;
+  color: rgb(112, 112, 112);
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  border-color: rgb(112, 112, 112);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+.ac-numberInput {
+  flex: 0 0 auto;
+  padding: 10px 4% 10px 10px;
+  text-align: left;
+  color: rgb(112, 112, 112);
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  border-color: rgb(112, 112, 112);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+} */
+/* .ac-pushButton {
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 8px;
+  text-overflow: ellipsis;
+  text-align: center;
+  outline: 0px;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: none;
+  text-decoration: none;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 400;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: transparent;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 51, 153);
+} */
+/* .ac-column {
+  cursor: pointer;
+} */
